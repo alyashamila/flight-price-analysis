@@ -2,7 +2,7 @@
 
 This project visualizes flight price data using Power BI with the Flight Price Prediction dataset.
 
-![Dashboard Screenshot](Capture.PNG)
+![Dashboard Screenshot]()
 
 ---
 
